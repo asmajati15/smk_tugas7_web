@@ -1,0 +1,87 @@
+body {
+    margin: 0;
+}
+
+.menu {
+    width: 80%;
+    height: 7%;
+    background-color: #1baaf9;
+    margin:auto;
+    text-align: right;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+.menu a {
+    font-family: 'Lemon Milk';
+    color: #07203c;
+    text-decoration: none;
+}
+.menu a:hover {
+    font-family: 'Lemon Milk';
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.banner {
+    width: 80%;
+    height: 25%;
+    background-image: url(udin.jpg);
+    margin: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.body {
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#b_left {
+    width: 35%;
+    height: 100%;
+    background-color: #1baaf9;
+    float: left;
+}
+#b_right {
+    width: 65%;
+    height: 100%;
+    background-color: #07203c;
+    float: left;
+}
+#b_right p {
+    padding: 0 20px 20px 20px;
+    color: #ffffff;
+}
+
+.footer {
+    width: 80%;
+    height: 10%;
+    background-color: #ffffff;
+    margin: auto;
+}
+#f_left {
+    width: 70%;
+    height: 143%;
+    background-color: #cb9d47;
+    float: left;
+}
+#f_right {
+    width: 30%;
+    height: 100%;
+    background-color: #cb9d47;
+    float: left;
+    text-align: right;
+    padding-top: 30px;
+}
+#f_right a {
+    font-family: 'Lemon Milk';
+    color: #07203c;
+    text-decoration: none;
+}
+#f_right a:hover {
+    font-family: 'Lemon Milk';
+    color: #ffffff;
+    text-decoration: none;
+}
